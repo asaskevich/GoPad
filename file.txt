@@ -1,0 +1,7 @@
+Test file
+1234567890
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+====================
+GoPad v0.1
